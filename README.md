@@ -1,6 +1,6 @@
-# My Dashboard Application
+# Energie Dashboard Application
 
-**My Dashboard Application** is a web-based dashboard that visualizes electricity generation data across Europe. The application provides an interactive, centralized view of key energy metrics, including:
+**Energie Dashboard Application** is a web-based dashboard that visualizes electricity generation data across Europe. The application provides an interactive, centralized view of key energy metrics, including:
 
 - **Energy prices** in various European markets  
 - **Electricity flow** between countries
